@@ -1,0 +1,1 @@
+(function(){var _0x25BD5=["translate","reset","place ships","shoot ship","cant place ships"];chat3d[_0x25BD5[0]]= {reset:_0x25BD5[1],place_ships:_0x25BD5[2],shoot_ship:_0x25BD5[3],cant_place_ships:_0x25BD5[4]}})()
